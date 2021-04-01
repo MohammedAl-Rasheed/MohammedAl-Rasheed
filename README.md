@@ -14,4 +14,4 @@
 - Placed 23rd out 6215 teams globaly in the **picoCTF 2021 Competition** hosted by  Carnegie Mellon University.
 
 ## Github Stats
-[![Mohammed Al-Rasheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAl-Rasheed&count_private=true&show_icons=true&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Mohammed Al-Rasheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAl-Rasheed&count_private=true&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
