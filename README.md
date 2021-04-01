@@ -12,3 +12,4 @@
 ## Awards achieved from the past years
 - Received a top 25% distinctions award in the **Canadian Senior Mathematics Exam 2020** offered by the University of Waterloo.
 - Received a top 25% distinctions award in the **Canadian Computing Competition 2021** offered by the University of Waterloo.
+- Placed 23rd out 6215 teams globaly in the **picoCTF Competition**.
