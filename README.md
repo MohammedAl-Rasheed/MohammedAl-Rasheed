@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Mohammed Al-Rasheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAl-Rasheed&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 What I'm up to...
 - 🔨 I'm currently working on my writeups for picoCTF 2021 after me and my [team](https://github.com/Team-Cha0s) placed 23rd out of 6215 teams globaly
@@ -13,3 +12,6 @@
 - Received a top 25% distinctions award in the **Canadian Senior Mathematics Exam 2020** hosted by the University of Waterloo.
 - Received a top 25% distinctions award in the **Canadian Computing Competition 2021** hosted by the University of Waterloo.
 - Placed 23rd out 6215 teams globaly in the **picoCTF 2021 Competition** hosted by  Carnegie Mellon University.
+
+## Github Stats
+[![Mohammed Al-Rasheed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohammedAl-Rasheed&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
