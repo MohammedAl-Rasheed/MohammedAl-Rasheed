@@ -6,5 +6,5 @@
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 working on a discord bot called SnipeBot it's goal is to be aple to snipe anything a user would wish from the internet
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- Create solutions for past ECOO programming contest and place decently well in the 2021 contest
-	- 
+	- ✍️ Create solutions for past ECOO programming contest and place decently well in the 2021 contest
+	- 📖 Learn more about binary exploitation
