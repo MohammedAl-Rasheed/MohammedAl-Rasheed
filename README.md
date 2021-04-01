@@ -10,6 +10,6 @@
 - 📖 Learn more about Binary Exploitation
 
 ## 🏆 Accomplishments achieved in the last 12 months
-- Received a top 25% distinctions award in the **Canadian Senior Mathematics Exam 2020** offered by the University of Waterloo.
-- Received a top 25% distinctions award in the **Canadian Computing Competition 2021** offered by the University of Waterloo.
-- Placed 23rd out 6215 teams globaly in the **picoCTF 2021 Competition**.
+- Received a top 25% distinctions award in the **Canadian Senior Mathematics Exam 2020** hosted by the University of Waterloo.
+- Received a top 25% distinctions award in the **Canadian Computing Competition 2021** hosted by the University of Waterloo.
+- Placed 23rd out 6215 teams globaly in the **picoCTF 2021 Competition** hosted by  Carnegie Mellon University.
