@@ -7,7 +7,7 @@
 
 ## 🎯 What I plan to work on in the near future
 - ✍️ Create solutions for past ECOO programming contest and place decently well in the 2021 contest
-- 📖 Learn more about Binary Exploitation
+- 📖 Learn more about Binary Exploitation and compete in more CTF's
 
 ## 🏆 Accomplishments achieved in the last 12 months
 - Received a top 25% distinctions award in the **Canadian Senior Mathematics Exam 2020** hosted by the University of Waterloo.
