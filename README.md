@@ -4,9 +4,10 @@
 - 🔨 I'm currently working on my writeups for picoCTF 2021 after me and my [team](https://github.com/Team-Cha0s) placed 23rd out of 6215 teams globally
 - 🔨 I'm currently working on a discord bot called SnipeBot it's goal is to be aple to snipe anything a user would wish to for example deleted messages, tiktok profile, instagram profile etc.
 - 🔨 I'm currently working on writeups for the ångstromCTF 2021 compeition 
-
+- 🔨 I'm currently preparing myself for the Avagadro's exam offered by the University of Waterloo
+- 
 ## 🎯 What I plan to work on in the near future
-- ✍️ Create solutions for past ECOO programming contest and place decently well in the 2021 contest
+- ✍️ Get better knowledge within the world of Data Structures and Algorithms
 - 📖 Learn more about Binary Exploitation and compete in more CTF's
 
 ## 🏆 Accomplishments achieved in the last 12 months
