@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ## 💻 What I'm up to...
-- 🔨 I'm currently working on my writeups for picoCTF 2021 after me and my [team](https://github.com/Team-Cha0s) placed 23rd out of 6215 teams globally
-- 🔨 I'm currently working on a discord bot called SnipeBot it's goal is to be aple to snipe anything a user would wish to for example deleted messages, tiktok profile, instagram profile etc.
-- 🔨 I'm currently working on writeups for the ångstromCTF 2021 compeition 
+- 🔨 I'm currently working as front-end developer on a startup called Insider Unlocked where we will be building a platform for people to view what stocks people in the congress are buying and selling.
+- 🔨 I'm working on a non-profit side-project that should be able to help all Ontario grade 12 students have an assistant they can rely on for next year. I plan on creating a learning managment system in regards on all ontario grade 12 university level courses such as Advanced Functions(MHF4U), Calculus and Vectors(MCV4U) etc. This platform will cary on notes and resources for every single part of the course you wish for. 
 
 ## 🎯 What I plan to work on in the near future
 - ✍️ Get better knowledge within the world of Data Structures and Algorithms
@@ -12,5 +11,6 @@
 ## 🏆 Accomplishments achieved in the last 12 months
 - Received a top 25% distinctions award in the **Canadian Senior Mathematics Exam 2020** hosted by the University of Waterloo.
 - Received a top 25% distinctions award in the **Canadian Computing Competition 2021** hosted by the University of Waterloo.
-- Placed 23rd out 6215 teams globaly in the **picoCTF 2021 Competition** hosted by  Carnegie Mellon University.
+- Placed 15th out of 123 people in my city in the **Avagadro's Exam** hosted by the University of Waterloo.
+- Placed 23rd out 6215 teams globaly in the **picoCTF 2021 Competition** hosted by Carnegie Mellon University.
 
