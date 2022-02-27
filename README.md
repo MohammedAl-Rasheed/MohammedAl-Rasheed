@@ -8,9 +8,3 @@
 - ✍️ Get better knowledge within the world of Data Structures and Algorithms
 - 📖 Learn more about Binary Exploitation and compete in more CTF's
 
-## 🏆 Accomplishments achieved in the last 12 months
-- Received a top 25% distinctions award in the **Canadian Senior Mathematics Exam 2020** hosted by the University of Waterloo.
-- Received a top 25% distinctions award in the **Canadian Computing Competition 2021** hosted by the University of Waterloo.
-- Placed 15th out of 123 people in my city in the **Avagadro's Exam** hosted by the University of Waterloo.
-- Placed 23rd out 6215 teams globaly in the **picoCTF 2021 Competition** hosted by Carnegie Mellon University.
-
